@@ -92,7 +92,63 @@ And science is knowledge, and knowledge is only if it is **known**.
 
 _We will discuss publication in more detail later._
 
-### 
+## Task
+
+Search for research about:
+
+- Light Emitting Diode
+- Ethernet
+- Digital Voltmeter
+
+Determine:
+
+- Hypothesis
+- Experiments
+- Conclusion
+
+Sent in your work:
+
+1. Go to Github and log in/register
+2. Fork: <a
+  href="https://github.com/skoenen/ci_1.06_introduction-to-scientific-working"
+  target="_blank">Seminar Repo</a>
+3. Write a new
+  <a href="https://markdownguide.org/cheat-sheet" target="_blank">markdown</a>
+  file with following information grouped by topics:
+  - Link to paper
+  - Answers to the **Determine**
+  - Date and time of your access to the paper.
+
+### Example markdown structure
+
+```
+# Task for research -> search
+
+## Topic _Light Emitting Diode_
+
+### Paper Title
+
+[Link to paper](http://example.org/papers/some-paper.pdf)
+
+#### Answers:
+
+##### Hypothesis:
+
+... Your answer ...
+
+##### Experimets:
+
+... Your answer ...
+
+##### Conclusion
+
+... 
+
+## Topic _Ethernet_
+
+...
+
+```
 
 ## Next
 [Ethics in _Research_ and _Science_](L04_Ethics-in-Science-Research.md)
