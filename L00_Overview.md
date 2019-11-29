@@ -22,6 +22,16 @@
   - Language
   - Content
 
+## Timing Structure of Seminar
+
+```
+Begin: 10:00
+End:   17:30
+
+Break 1: 12:00 -> 13:00
+Break 2: 15:00 -> 15:30
+```
+
 ## Where to find seminar material?
 
 <a href="https://github.com/skoenen/ci_1.06_introduction-to-scientific-working"
@@ -30,4 +40,4 @@
 ## Questions?
 
 ## Next
-[What is Science _produced_](L01_What-is-science.md)
+[What is Science?](L01_What-is-science.md)
