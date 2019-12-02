@@ -17,7 +17,7 @@ Following these steps, should results in good science.
 
 ### Search
 
-In this days it is most likely that there is already some work done regarding
+In these days it is most likely that there is already some work done regarding
 our observed phenomenon.
 To avoid already done mistakes or repeat work scientists use published research
 to learn.
@@ -29,7 +29,7 @@ After that the either found an explanation or have more questions to answer.
 
 There are some tools on the Internet to help in the process of research:
 
-- [Google Schoolar](https://schoolar.google.com)
+- [Google Scholar](https://scholar.google.com)
 - [Springer (access from inside hsrw network)](https://link.springer.com)
 - [Open Access](https://open-access.net)
 
@@ -70,7 +70,7 @@ Subjects of research in this field are
 Data gathered in experiments is at first data. There is no obvious conclusion.
 Data has to be analyzed to make use of it and derive a conclusion.
 
-This conclusion can either the 
+This conclusion can either be the 
 - evidence that the hypothesis formulated is the explanation for the observed
   phenomenon
 - or it is evidence that the hypothesis is not the explanation
