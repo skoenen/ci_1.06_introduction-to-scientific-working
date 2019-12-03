@@ -29,7 +29,7 @@ After that the either found an explanation or have more questions to answer.
 
 There are some tools on the Internet to help in the process of research:
 
-- [Google Schoolar](https://schoolar.google.com)
+- [Google Schoolar](https://scholar.google.com)
 - [Springer (access from inside hsrw network)](https://link.springer.com)
 - [Open Access](https://open-access.net)
 
