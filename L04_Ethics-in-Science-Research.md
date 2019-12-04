@@ -27,8 +27,6 @@ The so called **Piltdown Man** (Eoanthropus dawsoni).
 Up to 1953 the claims of Mr. Dawson was taken as correct and the truth.
 Specifically Mr. Arthur Smith Woodward of the _Natural History Museum London_
 defended the validity of the found.
-Even a chemical dating experiment in 1949 was considered executed false, because
-it dated the fossils as 500 years old instead of 500,000 years.
 
 In 1953 the student Joseph Weiner had doubts about the fossils, because some of
 it look not correct.
@@ -50,7 +48,9 @@ Therefore scientists should:
 1. Correct and complete recording of the research done.
 2. Be honest when reporting data used in their research.
 3. Embrace independend analysis and interpretation of results and data.
-4. Seek for independend 
+4. Seek for independend verification through peer-review.
+5. Be aware to weighing in the rights of human and animal.
+6. Properly give credit and naming of sources of information, data, ideas used.
 
 ### Examples of Ethic formalizations
 
@@ -93,4 +93,7 @@ Therefore scientists should:
 >
 > [Engineers: **Archimedean Oath**](https://en.wikipedia.org/wiki/Archimedean_Oath)
 
+## Next:
+
+[Credits in scientific writing](L05_Citation.md)
 
