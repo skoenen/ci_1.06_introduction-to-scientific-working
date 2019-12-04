@@ -20,10 +20,13 @@ famous discoveries of new found species and named them after himself:
 - Salaginella dawsoni
 
 And in 1912 he showed his newest discovery, a fossilied humanoid that was the
-missing link between humans and apes.
-The so called **Piltdown Man**.
+missing link between humans and apes found in the gravel beds near Piltdown
+(England).
+The so called **Piltdown Man** (Eoanthropus dawsoni).
 
 Up to 1953 the claims of Mr. Dawson was taken as correct and the truth.
+Specifically Mr. Arthur Smith Woodward of the _Natural History Museum London_
+defended the validity of the found.
 Even a chemical dating experiment in 1949 was considered executed false, because
 it dated the fossils as 500 years old instead of 500,000 years.
 
@@ -42,7 +45,12 @@ have to think about it during their work.
 _Because_, that is how they work.
 
 Ethics in science asks for integrity and honesty.
-Scientists
+Therefore scientists should:
+
+1. Correct and complete recording of the research done.
+2. Be honest when reporting data used in their research.
+3. Embrace independend analysis and interpretation of results and data.
+4. Seek for independend 
 
 ### Examples of Ethic formalizations
 
