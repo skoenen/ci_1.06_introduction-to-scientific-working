@@ -2,8 +2,8 @@
 students:
     1: name: Agbele Kolade, Matric No: 26623,
     2: name: Ukhurebor Nathaniel Osagie Bishop, Matric No: 28111,
-    3: name": Adeyeye Ayodeji Daniel, Matric No: 28003,
-    4: name: ehimika imobighe obokhua, Matric No: 28098
+    3: name: Adeyeye Ayodeji Daniel, Matric No: 28003,
+    4: name: Ehimika Imobighe Obokhua, Matric No: 28098
 ```
 
 # Task for research -> Ethernet
