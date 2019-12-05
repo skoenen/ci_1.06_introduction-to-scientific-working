@@ -42,11 +42,11 @@ At the time of redaction of this paper, there are nearly a dozen proposals4 for 
 They proposed to clarify the concept of super conductiong LED and demonstrate how to convert Cooper pairs to entangled photon pairs via interband radiative recombination of Cooper pairs, penetrated into a semiconductor by the proximity effect. 
 ##### Experiment:
 They fabricated a superconducting (SC)[^1] light emitting diode where a superconductor was used for the n-type electrode. luminescence in QDs was studied with photo-excited hole injection into QDs[^2]. In their experimental demonstrations, SC-LEDs (super conducting light emitting diodes with quantum well (QW) luminescent regions were employed and no signature of superconductivity was observed in their emission spectra. They studied the luminescence of Cooper pairs in InAs QDs and observed unusual “sharp edge” in the luminescence spectra, the signature of the SC density of states (DOS),for the first time.
-###### Sample Preparation
+  - Sample Preparation
 For this purpose, a semiconductor heterostructure was grown on a (311)B InP substrate with molecular-beam epitaxy (MBE). The growth was initiated with 50-nm-thick In0.53Ga0.47As and 100-nm-thick In0.52Al0.48As layers for removal of the InP substrate with selective chemical etching. Then 200-nm-thick n-In0.53Ga0.25Al0.22As/ 20-nm-thick n-In0.53Ga0.35Al0.12As/ 5-monolayers (ML) of InAs QDs/ 100-nm-thick n-In0.53Ga0.35Al0.12As/ 10-nm-thickn-In0.53Ga0.47As layers were grown successively. The InAs QDs were grown at 530°C and the QD density was 3.4x1010 cm-2, and the average QD lateral size and height were 57 nm and 5.6 nm, respectively.
-###### Measurement
+  - Measurement
 The prepared sample was set in a liquid-helium cryostat and a He-Ne laser at the wavelength of 632.8 nm was focused on one of the pillar arrays embedded in the Nb/Ag metals with an objective lens (OL) with the numerical aperture of 0.42. Photoluminescence (PL) was collected with the same OL and was dispersed by a 50-cm double monochromator with 300-grooves-per-mm gratings and was detected with a liquid-nitrogen-cooled InGaAs-photodiode array detector. PL spectra measured on one of the pillar with the diameter of 1.5 m With the given QD density, this pillar includes ~600 QDs. Under the excitation power density of 600W/cm2, the PL spectra were measured at 4 K and 10 K, which are below and above the Nb Super Conducting Temperature of 9.0 K, respectively.
-###### Observation
+  - Observation
 To examine the relation to the superconductivity, they plotted the QD luminescence intensity against the measured temperature. The Super conducting temperature (SC Tc), the luminescence intensity remained almost the same but it abruptly increased and saturated for the lower temperature. This correlation to the SC Tc also evidences the superconductivity effect. 
 
 ##### Conclusion:
