@@ -4,12 +4,28 @@
 - Fatema Tuz Zuhora (ID: 27386)
 - Md Samir Hossain (ID: 26770)
 ## Topic (Digital Voltmeter)
-### 
-[Link to paper]()
+### Design and Development of Voltmeter using different Techniques
+[Link to paper](https://ieeexplore.ieee.org/document/6922298)
 #### Answers:
 ##### Hypothesis:
+Measuring the voltage of a circuit is a very crucial part. In this this paper they have worked on how Digital Voltmeter is developed using different techniques. They have focused on two techniques, which are: analog IC based Technique, which involves comparator based Digital Voltmeter, it makes use of operational amplifiers which does not require any programming. In this way, voltage is measured by checking the LED connected at its output. The other Technique they have used is Micro controller based Technique. In this technique they have used 8051 based DVM and PIC based DVM. In this way the digital output is measured by 8015 micro controller and the result is displayed is LCD. According to their experiment, DVM developed in this technique is much better than other techniques as gives more accurate result as well as it gives output in millivolts. 
+
 ##### Experiment:
+To develpoe Digital Voltmeter they went through different experiments use the two techniques. 
+ In the experiment of comparator based Digital Voltmeter they have developed different  simulations, which are 
+ -	Simulation done on Proteus ISIS 7.10 using 2 to 3V  input ,
+ -  Simulation done on Proteus ISIS 7.10 using 5 to 6V input
+ In this experiment they have shown that when magnitude of input signal is between 2 to 3V then only first two LEDs will glow to indicate that the signal is more than 2V but third LED and rest of LEDs remains OFF which indicates that input signal is less 3V. 
+
+ Experiment they went through for Micro controller based techniques are :
+  -	Simulation of 8051 based DVM measuring low voltage 
+  -	Hardware implementation of 8051 based DVM showing accuracy at low voltage 
+  -	Hardware implementation of 8051 based DVM showing accuracy at higher voltage 
+  -	Simulation of 8051 based DVM measuring high voltage 
+  -	Layout of PIC based DVM in Proteus ARES 7.10
+
 ##### Conclusion:
+DVM is a one of the most important equipment for engineers so this paper describes how they can develop a beginner level DVM to professional level DVM. They showed simulations of every technique and hardware implementation of main techniques. They have used Proteus ISIS 7.10 software for simulation purpose and Proteus ARES 7.10 for PCB designing because Proteus is one of the most popular software used in embedded systems and in other electronic systems. This paper will be very useful for those researchers and engineers who like to experiment more and more to achieve best results.
 
 ## Topic (Ethernet)
 ### Ethernet-Based Real-Time and Industrial Communications
