@@ -95,5 +95,5 @@ Therefore scientists should:
 
 ## Next:
 
-[Credits in scientific writing](L05_Citation.md)
+[Structure of a scientific document](L05_Structure.md)
 
