@@ -62,6 +62,7 @@ without the need of the author to take care of it.
       The current version is \LaTeXe.
 
       % This is a comment, not shown in final output.
+
       % The following shows typesetting  power of LaTeX:
       \begin{align}
         E_0 &= mc^2 \\
@@ -93,6 +94,41 @@ And of course LaTeX is able to be used on a command line.
 _(My favorite:
 NeoVim with plugins: `ncm2`, `ale` \[with latex linter\], `vimtex`.
 But I do nearly everything in vim 😉 )_
+
+#### From LaTeX to PDF
+
+LaTeX uses a text-processor or compiler to convert the plain text according to
+rules into several output formats (some examples):
+
+- HTML (Hypertext Markup Language)
+- PostScript
+- RTF (Rich Text Format)
+- DVI (Device Independent Format)
+- PDF (Portable Document Format)
+
+Most distributions of LaTeX include tools to convert the plain text to a
+corresponding output format.
+MiKTeX supplies:
+
+- `latex TEXFILE.tex` ➞ Converts to DVI
+- `pdflatex TEXFILE.tex` ➞ Converts to PDF
+- `dvips DVI FILE` ➞ Convert DVI file to PostScript file
+- `dvipdfmx DVI FILE` ➞ Convert DVI file to PDF
+- `ps2pdf PS FILE` ➞ Convert PostScript file to PDF
+
+Additionally, when the bibliograhy system is used, the `bibtex` command has to
+run in between to LaTeX compiler runs.
+This makes it sure that the references are correct and all listed in the
+literature section.
+
+##### Additional Tools and Workflow
+
+Most GUI tools provide a way to do the multiple run of the correct commands.
+They use either the compiler commands directly or one of two tools that do the
+workflow:
+
+- [`latexmk`](https://mg.readthedocs.io/latexmk.html)
+- [`texify`](https://docs.miktex.org/manual/texify.html)
 
 ### Next:
 
