@@ -81,6 +81,7 @@ There are several forms, how a previous work and its authors are cited:
 - MLA _(Modern Language Association)_
 - Chicago/Turabien style
 - Harvard/Harvard-Canterbury
+- Vancouver
 
 Beside that in most styles there is a _bibliography_ section in an appendix.
 
@@ -130,42 +131,80 @@ University Press in 1906.
 
 It defines two types of notations
 
-1. Notes and Bibligraphy
+1. Notes and Bibliography
 
-  This notation uses on page notes (mentions on the bottom of a page) and a
-  bibliography in the appendix.
+  This notation uses numbered on page notes (mentions on the bottom of a page)
+  and a bibliography in the appendix.
+  In the text the notes are then referenced by the number.
+  The numbering starts on each page by one.
+  And should be raised on the text baseline.
 
 2. Author-Date
 
   This notation denotes a reference in the same mannor as shown in APA style and
   a bibliography in the appendix.
 
-**Example of a website in notes notation:**
+##### Example in notes notation:
 
-_First Note:_
+_In-Text:_
 
-Note 1: "Google Privacy Policy", last modified March 11, 2009,
-http://www.google.com/intl/en/privacypolicy.html.
+Douglas Adams has written in his universe, that it is completly normal to get
+anything you need if you have a towel.¹
 
-_Duplicate Note later:_
+_Direct quote:_
 
-"Google Privacy Policy".
+> ... a towel has immense psychological value.
+> For some reason, if a strag (strag: nonhitchhiker) discovers that a hitchhiker
+> has his towel with him, he will automatically assume that he is also in
+> possession of a toothbrush, washcloth, soap, tin of biscuits, flask, compass,
+> map, ball of string, gnat spray, wet-weather gear, space suit etc., etc.
+> Furthermore, the strag will then happily lend the hitchhiker any of these or
+> a dozen other items that the hitchhiker might accidentally have "lost".
+> ¹
 
-_Bibliography:_
+_Note at end of Page:_
 
-Google. "Google Privacy Policy". Last modified March 11, 2009.
-http://www.google.com/intl/en/privacypolicy.html
+¹Adams, Douglas, 1952-2001. _The Hitchhiker's Guide to the Galaxy. New York:
+Harmony Books, 1980._
 
-**Example a website in Author-Date notation:**
+_**Duplicate Note later:**_
 
-_In-Text Reference:_
+_In-Text:_
 
-(Google 2009)
+Douglas Adams has written in his universe, that it is completly normal to get
+anything you need if you have a towel.¹
 
-_Bibliography:_
+_Note at end of Page:_
 
-Google. 2009. "Google Privacy Policy". Last modified March 11, 2009.
-http://www.google.com/intl/en/privacypolicy.html
+¹_The Hitchhiker's Guide to the Galaxy_
+
+_**Bibliography:**_
+
+Adams, Douglas, 1952-2001. _The Hitchhiker's Guide to the Galaxy. New York:
+Harmony Books, 1980._
+
+##### Example in Author-Date notation:
+
+_In-Text:_
+
+Douglas Adams has written in his universe, that it is completly normal to get
+anything you need if you have a towel. (Adams 1952-2001)
+
+_Direct quote:_
+
+> ... a towel has immense psychological value.
+> For some reason, if a strag (strag: nonhitchhiker) discovers that a hitchhiker
+> has his towel with him, he will automatically assume that he is also in
+> possession of a toothbrush, washcloth, soap, tin of biscuits, flask, compass,
+> map, ball of string, gnat spray, wet-weather gear, space suit etc., etc.
+> Furthermore, the strag will then happily lend the hitchhiker any of these or
+> a dozen other items that the hitchhiker might accidentally have "lost".
+> (Adams 1952-2001, 42)
+
+_**Bibliography:**_
+
+Adams, Douglas, 1952-2001. _The Hitchhiker's Guide to the Galaxy. New York:
+Harmony Books, 1980._
 
 #### Harvard / Harvard-Canterbury
 
@@ -186,13 +225,44 @@ Additionally it allows to cite citations. Example: _Smith (1993, quoted by Gibbs
 
 The bibliography entries in this style are similar to Chicago and APA style.
 
-#### Citation in thesis in germany
+Often you also see references in brackets instead of parenthesis.
+And often 
 
-Especially in Germany there are some additional requirements.
+#### Vancouver
+
+Mostly used by medical publications, the main difference to others is the use
+of numerical short references.
+And all entries in the bibliography have the same number as they are referenced
+in the text.
+That means, that the numbers are not reset by page change and are consecutive.
+
+##### Example:
+
+_In-Text:_
+
+Douglas Adams has written in his universe, that it is completly normal to get
+anything you need if you have a towel\[1\].
+
+_Direct quote:_
+
+> ... a towel has immense psychological value.
+> For some reason, if a strag (strag: nonhitchhiker) discovers that a hitchhiker
+> has his towel with him, he will automatically assume that he is also in
+> possession of a toothbrush, washcloth, soap, tin of biscuits, flask, compass,
+> map, ball of string, gnat spray, wet-weather gear, space suit etc., etc.
+> Furthermore, the strag will then happily lend the hitchhiker any of these or
+> a dozen other items that the hitchhiker might accidentally have "lost".
+> \[1\]
+
+_**Bibliography:**_
+
+\[1\] Adams, Douglas, 1952-2001. _The Hitchhiker's Guide to the Galaxy. New York:
+Harmony Books, 1980._
+
+#### Citation of often changing sources
 
 If citing a often changing source (ex. website), a copy of the source in
 question must be supplied in an open readable format. (ex. PDF)
-2. 
 
 ### Next:
 
