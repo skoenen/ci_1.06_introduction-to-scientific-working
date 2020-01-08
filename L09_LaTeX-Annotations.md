@@ -109,5 +109,5 @@ command from LaTeX.
 
 ## Next:
 
-[LaTeX and Code](L10_LaTeX-Code.md)
+[LaTeX Environments](L10_LaTeX-Environment.md)
 
