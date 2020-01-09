@@ -123,5 +123,8 @@ To do all these things an `\includegraphics` instruction must be wrapped in a
 \begin{figure}
   \includegraphics{graphics}
 \end{figure}
+```
 
+## Next:
 
+[LaTeX and Code](LaTeX-Code.md)

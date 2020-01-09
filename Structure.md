@@ -162,4 +162,5 @@ hard to read.
 
 ### Next:
 
-[Giving credits in science](L06_Citation.md)
+[Giving credits in science](Citation.md)
+

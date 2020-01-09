@@ -121,4 +121,4 @@ of nesting.
 
 ## Next:
 
-[LaTeX Graphics](L12_LaTeX-Graphics.md)
+[LaTeX Graphics](LaTeX-Graphics.md)

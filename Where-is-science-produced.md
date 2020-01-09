@@ -50,4 +50,5 @@ knowledge available.
 This process is called _publishing_.
 
 ## Next
-[How to _research_](L03_Research.md)
+[How to _research_](Research.md)
+

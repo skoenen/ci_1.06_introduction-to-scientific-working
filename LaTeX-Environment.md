@@ -123,4 +123,4 @@ The `table` environment:
 
 ## Next:
 
-[LaTeX and Descriptions](L11_LaTeX-Descriptions.md)
+[LaTeX and Descriptions](LaTeX-Descriptions.md)

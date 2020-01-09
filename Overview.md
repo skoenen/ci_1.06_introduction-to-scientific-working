@@ -40,4 +40,4 @@ Break 2: 15:00 -> 15:30
 ## Questions?
 
 ## Next
-[What is Science?](L01_What-is-science.md)
+[What is Science?](What-is-science.md)

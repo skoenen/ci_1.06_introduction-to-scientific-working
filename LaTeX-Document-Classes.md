@@ -90,5 +90,5 @@ Beside that, there is a good tutorial that you should follow.
 
 We will write LaTeX and from now on it is intended to be more like a workshop.
 
-[LaTeX annotations](L09_LaTeX-Annotations.md)
+[LaTeX annotations](LaTeX-Annotations.md)
 

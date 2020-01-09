@@ -95,5 +95,5 @@ Therefore scientists should:
 
 ## Next:
 
-[Structure of a scientific document](L05_Structure.md)
+[Structure of a scientific document](Structure.md)
 

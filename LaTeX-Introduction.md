@@ -132,4 +132,4 @@ workflow:
 
 ### Next:
 
-[LaTeX Document Classes](L08_LaTeX-Document-Classes.md)
+[LaTeX Document Classes](LaTeX-Document-Classes.md)

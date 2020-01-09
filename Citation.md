@@ -266,4 +266,5 @@ question must be supplied in an open readable format. (ex. PDF)
 
 ### Next:
 
-[Writing scientific documents](L07_LaTeX-Introduction.md)
+[Writing scientific documents](LaTeX-Introduction.md)
+

@@ -109,5 +109,5 @@ command from LaTeX.
 
 ## Next:
 
-[LaTeX Environments](L10_LaTeX-Environment.md)
+[LaTeX References](LaTeX-References.md)
 
