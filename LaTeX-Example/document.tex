@@ -1,7 +1,20 @@
+
+% Documentclass with option with one column text layout
 \documentclass[a4paper,twoside,11pt]{scrartcl}
 
+% Documentclass with option to have two column text layout
+%\documentclass[a4paper,twocolumn,11pt]{scrartcl}
+
+% Package for generated dummy text
+\usepackage{lipsum}
+
+% Make table of contents entries links to sections in document clickable.
 \usepackage[pdfborder=0]{hyperref}
 
+% Make includegraphics available
+\usepackage{graphicx}
+
+% Include \section{} in the table of contents
 \KOMAoption{toc}{sectionentrywithdots}
 
 \title{Title of our work}
@@ -25,16 +38,38 @@
 %\date{2020-11-09}
 \date{~}
 
+% Set space between paragraphs
+% em is measure of text height
+\setlength{\parskip}{2em}
+
+% Modify the indentation of the first sentence in a paragraph
+\setlength{\parindent}{3em}
+% To disable indent here use 0pt as value
+
 \begin{document}
+
+\pagenumbering{gobble} % No page numbers from here on
 
 \maketitle
 
-\tableofcontents
-%\clearpage
+\clearpage
 
-%\include{introduction/introduction}
+\pagenumbering{roman} % Page numbers are I II III IV V VI VII VIII IX X XI
+\tableofcontents
+
+% Print index of tables
+\listoftables
+
+% Print index of figures
+\listoffigures
+
+\clearpage
+\pagenumbering{arabic}
+
 %\include{abstract}
+\include{introduction/introduction}
+
+\includegraphics[scale=0.5]{../graphics}
 
 \include{some_table}
-%\input{introduction}
 \end{document}

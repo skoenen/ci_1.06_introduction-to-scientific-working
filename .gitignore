@@ -1,5 +1,9 @@
-*.out
+# LaTeX related file extensions that should be ignored.
+
 *.aux
+*.lof
 *.log
-*.toc
+*.lot
+*.out
 *.pdf
+*.toc
