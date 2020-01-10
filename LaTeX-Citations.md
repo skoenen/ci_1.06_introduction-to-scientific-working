@@ -45,8 +45,18 @@ The best is to include them just before the `\end{document}`
 
 ```Latex
   \bibliographystyle{plain}
-  \bibliography{file1, file2, file2}
+  \bibliography{file1,file2,file2}
 \end{document}
 ```
 
+And finally the following order of compiler commands have to run:
+
+1. LaTeX to compile the source
+2. BibTeX to generate references and entries for LaTeX compilation
+3. LaTeX again to update references
+4. LaTeX again to update the bibliography at the end of the document.
+
+## Next:
+
+[LaTeX Environments](LaTeX-Environment.md)
 
