@@ -1,0 +1,106 @@
+# Task for research -> search
+
+## Topic _Light Emitting Diode_
+
+### High brightness polarized LEDs
+
+[Link to paper](https://cyberleninka.org/article/n/370480)
+
+#### Answers:
+
+##### Hypothesis:
+Polarized LEDs could be a possible alternative to cost effective general light source of the future and bring in massive savings.
+The experiment aims to achieve high levels of light emission through enhancing the brightness and polarization 
+of the light emitting diodes. m-plane GaN LEDs were first developed and more intensively investigated due to the 
+possible reduction of polarization-induced electric fields in the QWs. The wide avaliablity of these LEDs allow the
+investigation and testing of enhanced polarization for light detection and reduction of glare. 
+
+
+##### Experimets:
+Embedded PhC fabrication 
+LED fabrication
+Optical characterization 
+embedding air gaps within the GaN, which results in a large contrast in refractive index
+DIRECTIONAL ENHANCEMENT OF POLARIZED LIGHT EMISSION
+Excitation of guided modes in photonic crystals
+
+
+##### Conclusion
+he polarization-preserving and directional light extraction properties from PhCs, 
+along with the enhanced interaction of the embedded PhCs with the guided light, were 
+combined to yield a directional polarized light emitting diode. A directional enhancement
+of polarized light emission was increased by 1.8 fold. A high degree of polarization of 
+88.7% was acheived at 465nm, this gurantees higher brightness and makes it applicable in 
+real world appliances such as smart phone screens, LCD tvs etc but also for general lighting use. 
+
+
+## Topic _Ethernet_
+
+### DDOS analyzer using Jpcap and Wincap 
+
+[Link to paper](https://cyberleninka.org/article/n/209090)
+
+#### Answers:
+
+##### Hypothesis:
+A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable by
+overwhelming it with traffic from multiple sources.
+They target a wide variety of significant resources, from banks to websites hosting massive personal information
+that can cause delays and great security risks for users. 
+To combat DDOS the aim is to enhance the anlayzation of network/packets in complex systems by using JPCAP packet capturing 
+library with WinCap for Detection and analysis of network traffic on a prime target of DDoS Attack
+
+
+##### Experimets:
+Windows Packet Capture provides the facility to access low-level network in Windows operating environment. It can
+transmit network traffic along with protocol stack and process. It allows kernel-level packet filtering. 
+1. Obtain and open the network. 
+2. Set the traffic type wireless or Ethernet. 
+3. Set threshold or it will calculate by default. 
+4. Check incoming traffic 
+5. Calculate DDoS Probability and Show report
+6. Generate analyzer report based on the detection alerts and notification to the user.
+
+
+##### Conclusion
+The experiment captured live traffic from the network with the internet shared. The Algorithm used in this experiment 
+scans the various vulnerabilities within the network parameter in the likelihood of a DDOS attack. 
+TCP, ICMP and UDP packets that are more susceptible to get flood or pinged for DDoS attacks. 
+TO combad the attacks, the algorithm checks the source and destination address that verifies wether the 
+user is authenticated to access the network or not, allowing other protocals to be initiated for the purpose of neturalizing the
+threat once it's detected and held at the access point. 
+
+## Digital Voltmeter
+
+### Development of a High Precision Digital Volt Meter
+
+[Link to paper] (https://www.ijareeie.com/upload/2014/february/40_Daisykutty.pdf)
+
+#### Answers:
+
+##### Hypothesis:
+The experiment aims to design a voltmeter that can measure up to 0 to 30.00V with 0.01V precision.
+The circuit mainly consists of a voltage divider circuit, and a 16*1 LCD display which are interfaced to
+the 8 bit microcontroller ATmega328P. r. The ATmega328 consists of an inbuilt ADC which converts the voltage 
+to a digital value. The microcontroller is programmed to convert this digital value again to the value of
+applied voltage. The value is then displayed through a LCD display. 
+When the supply is given, the controller initially checks whether the applied voltage falls within the required range. If yes,
+the applied voltage is displayed on the LCD. Else the controller waits till a voltage that falls within the rated range is
+applied. 
+
+
+##### Experimets:
+1.Interface micro controller with Hardware components
+2.Unknown voltage given to A0 port of microprocessor
+3.Check if supplied voltage is within range
+4.Multiply voltage value with multiplication factor/FEED to LCD display
+
+
+##### Conclusion
+The assembled high accuracy voltmeter is a success with standout features being easy to use and low power consumption.
+Largely due to the microcontroller selected for the experiment. This result achieved in the experiment amplifies the 
+existing advantages with the digital voltmeter compared to analogue ones, Digital Voltmeter gives readings as numerical display. 
+They also provide outputs that can be transmitted over distance, can
+activate printers and typewriters, and can feed to computers. These integrate outputs for monitoring, controlling,
+transmitting, and printing of data. Advanced systems are often connected to computers, allowing for automation,
+optimization of processes, and prevention of malfunctions and critical failure safeties. 
