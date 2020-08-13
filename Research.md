@@ -70,7 +70,7 @@ Subjects of research in this field are
 Data gathered in experiments is at first data. There is no obvious conclusion.
 Data has to be analyzed to make use of it and derive a conclusion.
 
-This conclusion can either be the
+This conclusion can either be the 
 - evidence that the hypothesis formulated is the explanation for the observed
   phenomenon
 - or it is evidence that the hypothesis is not the explanation
